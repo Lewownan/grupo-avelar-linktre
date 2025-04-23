@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grupo Avelar - Linktree</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      color: #333;
+      text-align: center;
+      padding: 20px;
+    }
+    .container {
+      max-width: 500px;
+      margin: 0 auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #004080;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.1em;
+      margin-bottom: 30px;
+    }
+    a.button {
+      display: block;
+      margin: 10px 0;
+      padding: 15px;
+      border-radius: 8px;
+      background: #ff6600;
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    a.button:hover {
+      background: #cc5200;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Grupo Avelar</h1>
+    <p>Cuidando da sua família com carinho e proteção</p>
+
+    <a class="button" href="https://wa.me/55SEUNUMERO?text=Olá%2C+gostaria+de+ativar+um+plano+familiar+com+o+Grupo+Avelar!" target="_blank">💬 Ativar Plano pelo WhatsApp</a>
+    <a class="button" href="#" target="_blank">🧾 Conheça Nossos Planos Familiares</a>
+    <a class="button" href="#" target="_blank">🏥 Clínicas Credenciadas (+50 unidades)</a>
+    <a class="button" href="#" target="_blank">🩺 Descontos em Exames e Tratamentos</a>
+    <a class="button" href="https://instagram.com/seuusuario" target="_blank">📸 Siga no Instagram</a>
+  </div>
+</body>
+</html>
